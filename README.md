@@ -8,8 +8,6 @@ This study applies RFM analysis and K-Means clustering for fan segmentation, and
 ## 📁 Structure
 - `Thesis_Paper.pdf`: Final PDF of the thesis
 - `R_code/`: All R scripts for analysis and modeling
-- `output/`: Plots and figures from the analysis
-
 
 ## 🛠 Technologies
 - R (tidyverse, cluster, randomForest)
@@ -20,5 +18,5 @@ This study applies RFM analysis and K-Means clustering for fan segmentation, and
 
 ## 📜 License
 This repository is shared for **viewing purposes only**.  
-All rights reserved © 2025 Ioannis Anagnostelis.  
+All rights reserved © 2024 Ioannis Anagnostelis.  
 Do not reuse or distribute without permission.
