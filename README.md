@@ -20,3 +20,4 @@ This study applies RFM analysis and K-Means clustering for fan segmentation, and
 This repository is shared for **viewing purposes only**.  
 All rights reserved © 2024 Ioannis Anagnostelis.  
 Do not reuse or distribute without permission.
+
